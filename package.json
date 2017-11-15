@@ -7,7 +7,7 @@
     "utility",
     "module"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/statico/node-artillery-async",
   "bugs": "https://github.com/statico/node-artillery-async/issues",
   "repository": {
