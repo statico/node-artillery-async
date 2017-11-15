@@ -8,14 +8,14 @@
     "module"
   ],
   "version": "1.0.2",
-  "homepage": "https://github.com/artillery/node-artillery-async",
-  "bugs": "https://github.com/artillery/node-artillery-async/issues",
+  "homepage": "https://github.com/statico/node-artillery-async",
+  "bugs": "https://github.com/statico/node-artillery-async/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/artillery/node-artillery-async.git"
+    "url": "https://github.com/statico/node-artillery-async.git"
   },
   "license": "MIT",
-  "author": "Ian Langworth <ian@artillery.com> (https://www.artillery.com/)",
+  "author": "Ian Langworth <ian@langworth.com>",
   "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {
