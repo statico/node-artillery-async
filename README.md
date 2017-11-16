@@ -1,7 +1,7 @@
 # ArtilleryAsync
 
 [![Build Status](https://img.shields.io/circleci/project/statico/node-artillery-async.svg)](https://circleci.com/gh/statico/node-artillery-async)
-[![Coverage Status](https://coveralls.io/repos/statico/node-artillery-async/badge.svg?branch=master&service=github)](https://coveralls.io/github/statico/node-artillery-async?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/statico/node-artillery-async/badge.svg?branch=master)](https://coveralls.io/github/statico/node-artillery-async?branch=master)
 [![Issues](https://img.shields.io/github/issues/statico/node-artillery-async.svg)](https://github.com/statico/node-artillery-async/issues)
 [![Dependencies](https://img.shields.io/gemnasium/statico/node-artillery-async.svg)](https://gemnasium.com/statico/node-artillery-async)
 [![License](https://img.shields.io/github/license/statico/node-artillery-async.svg)](https://github.com/statico/node-artillery-async/blob/master/LICENSE)
